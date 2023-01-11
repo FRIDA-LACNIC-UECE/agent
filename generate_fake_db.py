@@ -116,7 +116,7 @@ def insert_data(engine_db, table_name, num_of_rows, seed):
 
 if __name__ == "__main__":
     USER = "root"
-    DB_PW = "Dd16012018"
+    DB_PW = ""
     HOST = "localhost"
     DB_NAME = "test_db"
     TABLE_NAME = "nivel1"
